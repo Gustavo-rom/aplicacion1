@@ -19,12 +19,12 @@
 		    Gustavo Roman Hernandez
 			</author>
 			
-			<pag:plugin name="org.apache.cordova.device" version="0.2.12" />
-			        <pag:plugin name="org.apache.cordova.vibration" version="0.3.0" />
-			<gap:plugin name="org.apache.cordova.dialogs" version="0.2.6"  />
+<pag:plugin name="org.apache.cordova.device" version="0.2.12" />
+        <pag:plugin name="org.apache.cordova.vibration" version="0.3.0" />
+<gap:plugin name="org.apache.cordova.dialogs" version="0.2.6"  />
 			
 			
-			<!-- Colocar icona app -->
+	<!-- Colocar icona app -->
 		
-		<icon src="res/android/mdpi.pgn" />
-		</widget>
+<icon src="res/android/mdpi.png" />
+</widget>
